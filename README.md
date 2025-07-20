@@ -1,2 +1,3 @@
 # Java-OOP
-OOP Related Java files.
+
+Basic Project for Java OOP.
